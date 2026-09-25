@@ -1,6 +1,5 @@
 # SAR Multi-Robot Waste Detection System
 
-## IITISoC 2026 — PS3
 ### Autonomous Waste Detection, Mapping, Navigation and Multi-Agent Task Allocation
 
 ---
