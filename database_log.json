@@ -1,0 +1,10 @@
+{
+    "0": {
+        "x": 0.38822821434509647,
+        "y": 0.4311529956390975,
+        "robot": "robot1",
+        "time": "builtin_interfaces.msg.Time(sec=60, nanosec=100000000)",
+        "assigned": false,
+        "assigned_to": ""
+    }
+}

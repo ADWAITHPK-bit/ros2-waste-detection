@@ -1,0 +1,2 @@
+marker_id,x,y,robot,timestamp,assigned,assigned_to
+0,0.38822821434509647,0.4311529956390975,robot1,"builtin_interfaces.msg.Time(sec=60, nanosec=100000000)",False,

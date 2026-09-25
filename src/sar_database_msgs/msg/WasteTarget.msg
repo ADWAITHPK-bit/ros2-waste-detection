@@ -1,0 +1,6 @@
+string marker_id
+geometry_msgs/Point position
+string detected_by
+builtin_interfaces/Time timestamp
+bool assigned
+string assigned_to

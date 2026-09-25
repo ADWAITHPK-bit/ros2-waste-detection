@@ -1,0 +1,25 @@
+# ROS 2 generated files
+build/
+install/
+log/
+
+# ROS bags / databases
+*.bag
+*.db3
+*.mcap
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Generated graph/debug files
+*.gv
+*.pdf
